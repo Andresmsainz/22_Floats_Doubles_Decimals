@@ -1,0 +1,13 @@
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\bin\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.exe
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\bin\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.deps.json
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\bin\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.runtimeconfig.json
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\bin\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.runtimeconfig.dev.json
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\bin\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.dll
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\bin\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.pdb
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\obj\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\obj\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.AssemblyInfoInputs.cache
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\obj\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.AssemblyInfo.cs
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\obj\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\obj\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.dll
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\obj\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.pdb
+C:\SRC\CSharp\22_Float_Dbl_Dml_PlcHldr\22_Float_Dbl_Dml_PlcHldr\obj\Debug\netcoreapp3.1\22_Float_Dbl_Dml_PlcHldr.genruntimeconfig.cache
